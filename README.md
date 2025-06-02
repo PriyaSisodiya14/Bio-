@@ -21,18 +21,17 @@ My experience spans both Agile and hybrid methodologies, and I’ve contributed 
 ## Skills
 - Project & Agile Tools: Jira, Zoho Projects, Trello
 
-Documentation: BRD, FRD, Use Cases, UAT, SOPs
+- Documentation: BRD, FRD, Use Cases, UAT, SOPs
 
-Data Visualization: Power BI, Excel
+- Data Visualization: Power BI, Excel
 
-Collaboration: Google Workspace, Microsoft Teams
+- Collaboration: Google Workspace, Microsoft Teams
 
-Modeling Tools: Lucidchart, Draw.io
+- Modeling Tools: Lucidchart, Draw.io
 
-Domains: US Healthcare (HCC, CMS, HIPAA), CRM Systems, Telecom
+- Domains: US Healthcare (HCC, CMS, HIPAA), CRM Systems, Telecom
 
-Soft Skills: Stakeholder Communication, Analytical Thinking, Process Design
-
+- Soft Skills: Stakeholder Communication, Analytical Thinking, Process Design
 
 - **Technologies & Tools**: Risk adjustment technology, salesforce, power BI
 
